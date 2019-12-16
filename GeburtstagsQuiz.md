@@ -110,6 +110,7 @@ Gemeinsamkeit: <span class="fragment">Eurovision Song Contest Gewinner</span>
 * Chemisches Element mit Ordnungszahl 2: <span class="fragment">Helium</span>
 * Zweiter Bundespräsident: <span class="fragment">Heinrich Lübke</span>
 * Zweites der 10 Gebote: <span class="fragment">"Du sollst den Namen des Herrn, deines Gottes, nicht mißbrauchen." </span>
+* Zweites Lied im zweiten Block: <span class="fragment">Modern Talking - You’re my heart, you’re my soul </span>
 
 ---
 
