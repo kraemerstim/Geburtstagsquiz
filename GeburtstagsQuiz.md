@@ -126,4 +126,38 @@ Gemeinsamkeit: <span class="fragment">Eurovision Song Contest Gewinner</span>
 
 --
 
-# Beispiele
+# Beispiel
+<table border="1">
+<tr> 
+<td style="position:relative; top:0; left:0;">
+<img src="img/hag.png" style="background:none; border:none; box-shadow:none;" class="fragment fade-in-then-out">
+<img src="img/ing.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
+<img src="img/um.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
+<img src="img/in.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
+<img src="img/itz.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
+<img src="img/hausen.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
+<img src="img/ow.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
+<img src="img/leben.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
+<img src="img/ach.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
+<img src="img/weiler.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
+<img src="img/siel.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
+<img src="img/horst.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
+</td>
+<td>
+
+*  -hag
+*  -hausen
+*  -horst
+*  -in
+*  -ing
+*  -itz
+*  -leben
+*  -ow
+*  -siel
+*  -um
+*  -weiler
+
+
+</td>
+</tr>
+</table>
