@@ -62,7 +62,7 @@ Gemeinsamkeit: <span class="fragment">Gleiches Erscheinungsjahr (1985)</span>
 --
 
 # Gruppe 3
-* Lena - Satelite {.fragment .fade-up}
+* Lena - Satellite {.fragment .fade-up}
 * Olsen Brothers - Fly on the wings of love {.fragment .fade-up}
 * Abba - Waterloo {.fragment .fade-up}
 * Udo Jürgens - Merci Cherie {.fragment .fade-up}
