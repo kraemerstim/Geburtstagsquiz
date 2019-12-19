@@ -3,7 +3,7 @@ theme : "solarized"
 transition: "slide"
 highlightTheme: "monokai"
 slideNumber: false
-title: "Mutters Geburtstagsquiz"
+title: "Geburtstagsquiz"
 ---
 
 # Geburtstags-Quiz
@@ -127,37 +127,72 @@ Gemeinsamkeit: <span class="fragment">Eurovision Song Contest Gewinner</span>
 --
 
 # Beispiel
-<table border="1">
-<tr> 
-<td style="position:relative; top:0; left:0;">
-<img src="img/hag.png" style="background:none; border:none; box-shadow:none;" class="fragment fade-in-then-out">
-<img src="img/ing.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
-<img src="img/um.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
-<img src="img/in.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
-<img src="img/itz.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
-<img src="img/hausen.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
-<img src="img/ow.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
-<img src="img/leben.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
-<img src="img/ach.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
-<img src="img/weiler.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
-<img src="img/siel.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
-<img src="img/horst.png" style="background:none; border:none; box-shadow:none; position:absolute; top:0; left:0;" class="fragment fade-in-then-out">
-</td>
-<td>
 
-*  -hag
-*  -hausen
-*  -horst
-*  -in
-*  -ing
-*  -itz
-*  -leben
-*  -ow
-*  -siel
-*  -um
-*  -weiler
+--
 
+![test](img/beispiel-zell.png)
 
-</td>
-</tr>
-</table>
+---
+
+# Spiel #3
+## Lösungen
+
+--
+
+1.
+![test](img/hag-solution.png)
+
+--
+
+2.
+![test](img/ing-solution.png)
+
+--
+
+3.
+![test](img/um-solution.png)
+
+--
+
+4.
+![test](img/in-solution.png)
+
+--
+
+5.
+![test](img/itz-solution.png)
+
+--
+
+6.
+![test](img/hausen-solution.png)
+
+--
+
+7.
+![test](img/ow-solution.png)
+
+--
+
+8.
+![test](img/leben-solution.png)
+
+--
+
+9.
+![test](img/ach-solution.png)
+
+--
+
+10.
+![test](img/weiler-solution.png)
+
+--
+
+11.
+![test](img/siel-solution.png)
+
+--
+
+12.
+![test](img/horst-solution.png)
